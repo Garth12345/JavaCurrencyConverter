@@ -1,0 +1,5 @@
+GBP
+USD
+RUB
+HUF
+PLN
